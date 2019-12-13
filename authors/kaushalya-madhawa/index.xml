@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaushalya Madhawa | </title>
+    <link>https://danaja.github.io/authors/kaushalya-madhawa/</link>
+      <atom:link href="https://danaja.github.io/authors/kaushalya-madhawa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaushalya Madhawa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 May 2015 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://danaja.github.io/img/icon-192.png</url>
+      <title>Kaushalya Madhawa</title>
+      <link>https://danaja.github.io/authors/kaushalya-madhawa/</link>
+    </image>
+    
+    <item>
+      <title>Big Data to Improve Urban Planning</title>
+      <link>https://danaja.github.io/publication/big-data-to-improve-urban-planning/</link>
+      <pubDate>Sat, 30 May 2015 00:00:00 -0400</pubDate>
+      <guid>https://danaja.github.io/publication/big-data-to-improve-urban-planning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
