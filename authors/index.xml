@@ -5,7 +5,7 @@
     <link>https://danaja.github.io/authors/</link>
       <atom:link href="https://danaja.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 -0500</lastBuildDate>
     <image>
       <url>https://danaja.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,26 +13,42 @@
     </image>
     
     <item>
-      <title>Arun Varghese</title>
-      <link>https://danaja.github.io/authors/arun-varghese/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      <guid>https://danaja.github.io/authors/arun-varghese/</guid>
+      <title>Ceren Budak</title>
+      <link>https://danaja.github.io/authors/ceren-budak/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>https://danaja.github.io/authors/ceren-budak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Danaja Maldeniya</title>
       <link>https://danaja.github.io/authors/danaja-maldeniya/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
       <guid>https://danaja.github.io/authors/danaja-maldeniya/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Daniel Romero</title>
-      <link>https://danaja.github.io/authors/daniel-romero/</link>
+      <title>Daniel M. Romero</title>
+      <link>https://danaja.github.io/authors/daniel-m.-romero/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>https://danaja.github.io/authors/daniel-m.-romero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lionel P. Robert</title>
+      <link>https://danaja.github.io/authors/lionel-p.-robert/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
+      <guid>https://danaja.github.io/authors/lionel-p.-robert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arun Varghese</title>
+      <link>https://danaja.github.io/authors/arun-varghese/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      <guid>https://danaja.github.io/authors/daniel-romero/</guid>
+      <guid>https://danaja.github.io/authors/arun-varghese/</guid>
       <description></description>
     </item>
     
