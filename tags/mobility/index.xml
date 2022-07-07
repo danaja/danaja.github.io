@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mobility | </title>
+    <link>https://danaja.github.io/tags/mobility/</link>
+      <atom:link href="https://danaja.github.io/tags/mobility/index.xml" rel="self" type="application/rss+xml" />
+    <description>mobility</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://danaja.github.io/img/icon-192.png</url>
+      <title>mobility</title>
+      <link>https://danaja.github.io/tags/mobility/</link>
+    </image>
+    
+    <item>
+      <title>Understanding the Impact of Urban Infrastructure: New Insights from Population-Scale Data</title>
+      <link>https://danaja.github.io/publication/impact-of-urban-infrastructure/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
+      <guid>https://danaja.github.io/publication/impact-of-urban-infrastructure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
